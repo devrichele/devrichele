@@ -10,7 +10,7 @@
 ## 💼 Projetos em Destaque
 
 - 💸 **Rich Finance**  
-  App para controle financeiro com visual moderno, uso de React e dados salvos localmente. Possui gráficos, categorias e resumo mensal.  
+  App para controle financeiro com visual moderno, uso de React e dados salvos localmente. 
 
 - 🤖 **Sympho AI**  
   Assistente IA com foco em interação com usuários e suporte automatizado, criado com Next.js.
