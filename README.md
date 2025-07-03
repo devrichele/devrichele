@@ -13,7 +13,7 @@
   App para controle financeiro com visual moderno, uso de React e dados salvos localmente. Possui gráficos, categorias e resumo mensal.  
 
 - 🤖 **Sympho AI**  
-  Assistente IA com foco em interação com usuários e suporte automatizado, criado usando React e integrado ao n8n.
+  Assistente IA com foco em interação com usuários e suporte automatizado, criado com Next.js.
 
 - 📚 **Biblioteca Virtual**  
   Projeto com Next.js + n8n que automatiza a criação de conteúdos para uma biblioteca digital de forma prática e inteligente.
